@@ -30,7 +30,7 @@ foreach ($knownHosts as $host) {
     }
 }
 
-$json = json_decode(file_get_contents('/Users/phil/Dropbox/Apps/Shuttle/.shuttle.json'));
+$json = \json_decode(file_get_contents('/Users/phil/Dropbox/Apps/Shuttle/.shuttle.json'));
 foreach ($json->hosts as $group) {
     foreach ($group as $entry) {
         foreach ($entry as $one) {

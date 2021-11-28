@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9354e3e-2c7a-4765-9a6b-b3c5d2aba8fd" name="Changes" comment="" />
+    <list default="true" id="b9354e3e-2c7a-4765-9a6b-b3c5d2aba8fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shuttle-search.php" beforeDir="false" afterPath="$PROJECT_DIR$/shuttle-search.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +16,9 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -24,6 +30,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="21YvPmJmcSj9mzz7D6y1ejCbCGd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638130813772</updated>
-      <workItem from="1638130814812" duration="1845000" />
+      <workItem from="1638130814812" duration="2276000" />
     </task>
     <servers />
   </component>
